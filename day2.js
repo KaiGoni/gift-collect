@@ -1,3 +1,12 @@
+//------------------------------------------------------------------------------------------------------------------------------//
+//                                                                                                                              //
+//  Phaser - Gift Collect Game                                                                                                  //
+//  Day 2                                                                                                                       //
+//                                                                                                                              //
+//  Description: Created background, ground, player, and input detection, added physics to configuration                        //
+//                                                                                                                              //
+//------------------------------------------------------------------------------------------------------------------------------//
+
 // Set up configuration for Phaser
 var config = {
     type: Phaser.AUTO,          // recommended type is Phaser.AUTO

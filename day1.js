@@ -1,3 +1,12 @@
+//------------------------------------------------------------------------------------------------------------------------------//
+//                                                                                                                              //
+//  Phaser - Gift Collect Game                                                                                                  //
+//  Day 1                                                                                                                       //
+//                                                                                                                              //
+//  Description: Set up files, configured game, loaded all assets                                                               //
+//                                                                                                                              //
+//------------------------------------------------------------------------------------------------------------------------------//
+
 // Set up configuration for Phaser
 var config = {
     type: Phaser.AUTO,          // recommended type is Phaser.AUTO

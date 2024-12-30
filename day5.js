@@ -1,3 +1,12 @@
+//------------------------------------------------------------------------------------------------------------------------------//
+//                                                                                                                              //
+//  Phaser - Gift Collect Game                                                                                                  //
+//  Day 5                                                                                                                       //
+//                                                                                                                              //
+//  Description: Added music and sound effects to the game                                                                      //
+//                                                                                                                              //
+//------------------------------------------------------------------------------------------------------------------------------//
+
 // Set up configuration for Phaser
 var config = {
     type: Phaser.AUTO,          // recommended type is Phaser.AUTO

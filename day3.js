@@ -1,3 +1,12 @@
+//------------------------------------------------------------------------------------------------------------------------------//
+//                                                                                                                              //
+//  Phaser - Gift Collect Game                                                                                                  //
+//  Day 3                                                                                                                       //
+//                                                                                                                              //
+//  Description: Created objects physics group, randomly spawned gifts/bombs, detect what object the player hit                 //
+//                                                                                                                              //
+//------------------------------------------------------------------------------------------------------------------------------//
+
 // Set up configuration for Phaser
 var config = {
     type: Phaser.AUTO,          // recommended type is Phaser.AUTO

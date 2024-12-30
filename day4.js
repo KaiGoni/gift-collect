@@ -1,3 +1,12 @@
+//------------------------------------------------------------------------------------------------------------------------------//
+//                                                                                                                              //
+//  Phaser - Gift Collect Game                                                                                                  //
+//  Day 4                                                                                                                       //
+//                                                                                                                              //
+//  Description: Created scoreboard and hearts, added points and removed lives when player hit certain objects                  //
+//                                                                                                                              //
+//------------------------------------------------------------------------------------------------------------------------------//
+
 // Set up configuration for Phaser
 var config = {
     type: Phaser.AUTO,          // recommended type is Phaser.AUTO
